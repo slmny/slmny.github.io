@@ -1,0 +1,9 @@
+Package: com.slmny.breeze
+Name: Breeze
+Depends: com.anemonetheming.anemone
+Version: 0.9
+Architecture: iphoneos-arm
+Description: A fresh breeze for your Springboard!
+Maintainer: slmny
+Author: slmny
+Section: Themes (SpringBoard) 

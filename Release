@@ -1,0 +1,8 @@
+Origin: slmny Public Repository
+Label: slmny Public Repo
+Suite: stable
+Version: 0.9
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: slmny Public Example Repo
