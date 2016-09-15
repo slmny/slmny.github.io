@@ -5,9 +5,9 @@ Maintainer: slmny
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.slmny.breeze_0.9.1_iphoneos-arm.deb
 Size: 39860
-MD5sum: b75e91329896b8b26cc050cf0fb6dd3b
-SHA1: c33f31fae70cf984be952813571fc146553faf80
-SHA256: e5709b5cbcd154610a6612da318e013296c9c39f6c480901f224bde86bd3d0d2
+MD5sum: 6a0084331188d2318a6d1e7c2f799c1b
+SHA1: a5a8f1a5d47e4dfd673120dc3b5039f3ec885483
+SHA256: 1085d605eb94941c91bb23e26902dda074f65091b8e19126a92f58f4a08e6bdb
 Section: Themes (SpringBoard)
 Description: A fresh breeze for your Springboard!
 Author: slmny
