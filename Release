@@ -1,7 +1,7 @@
 Origin: slmny Public Repository
 Label: slmny Public Repo
 Suite: stable
-Version: 0.9.2.4
+Version: 0.9.2.5
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
