@@ -7,28 +7,30 @@
 	<key>CalendarIconDateSettings</key>
 	<dict>
 		<key>FontSize</key>
-		<integer>30</integer>
+		<integer>34</integer>
 		<key>ShadowBlurRadius</key>
-		<integer>1</integer>
+		<integer>0</integer>
 		<key>ShadowColor</key>
-		<string>#666666</string>
+		<string>#FFFFFF</string>
+		<key>ShadowXoffset</key>
+		<string>0</string>
+		<key>ShadowYoffset</key>
+		<string>0</string>
 		<key>TextColor</key>
-		<string>#383838</string>
+		<string>#000000</string>
 		<key>TextYoffset</key>
-		<integer>12</integer>
+		<integer>5</integer>
 	</dict>
 	<key>CalendarIconDaySettings</key>
 	<dict>
 		<key>FontSize</key>
-		<integer>9</integer>
+		<integer>0</integer>
 		<key>ShadowBlurRadius</key>
-		<integer>1</integer>
+		<integer>0</integer>
 		<key>ShadowColor</key>
-		<string>#666666</string>
+		<string>#FFFFFF</string>
 		<key>TextColor</key>
 		<string>#FFFFFF</string>
-		<key>TextYoffset</key>
-		<integer>3</integer>
 	</dict>
 	<key>IB-MaskIcons</key>
 	<true/>
